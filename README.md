@@ -1,0 +1,1 @@
+This is my first project for a odin study plan and i will make a recipe website. The language being used is going to be html.
